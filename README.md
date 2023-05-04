@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Smart Home Technologies with Arduino Uno<br><br>🌱 I’m currently learning C++ and GoLang<br>
+🔭 I’m currently working on Smart Home Technologies with Arduino Uno<br><br>🌱 I’m currently learning C++, Java and GoLang<br>
 
 
 ## 🌐 Socials:
